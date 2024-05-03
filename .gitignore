@@ -1,0 +1,5 @@
+# Ignore node_modules directory in the build-server directory
+build-server/node_modules/
+
+# Ignore .env file in the build-server directory
+build-server/.env
